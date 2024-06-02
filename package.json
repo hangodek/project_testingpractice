@@ -1,0 +1,26 @@
+{
+  "name": "project_testingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hangodek/project_testingpractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hangodek/project_testingpractice/issues"
+  },
+  "homepage": "https://github.com/hangodek/project_testingpractice#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "node": "^20.14.0"
+  }
+}
