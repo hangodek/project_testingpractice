@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1717667259048" clover="3.2.0">
-  <project timestamp="1717667259049" name="All files">
-    <metrics statements="39" coveredstatements="33" conditionals="7" coveredconditionals="4" methods="8" coveredmethods="8" elements="54" coveredelements="45" complexity="0" loc="39" ncloc="39" packages="1" files="4" classes="4"/>
+<coverage generated="1717670830067" clover="3.2.0">
+  <project timestamp="1717670830067" name="All files">
+    <metrics statements="43" coveredstatements="37" conditionals="7" coveredconditionals="4" methods="10" coveredmethods="10" elements="60" coveredelements="51" complexity="0" loc="43" ncloc="43" packages="1" files="5" classes="5"/>
+    <file name="analyzearray.js" path="/home/han/project_testingpractice/analyzearray.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
     <file name="caesarcipher.js" path="/home/han/project_testingpractice/caesarcipher.js">
       <metrics statements="22" coveredstatements="16" conditionals="7" coveredconditionals="4" methods="2" coveredmethods="2"/>
       <line num="2" count="1" type="stmt"/>
