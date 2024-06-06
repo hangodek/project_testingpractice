@@ -1,4 +1,3 @@
-
 const capitalizeString = require("./capitalize")
 
 test("Capitalize the first string", () => {

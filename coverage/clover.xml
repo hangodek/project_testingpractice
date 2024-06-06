@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1717334921808" clover="3.2.0">
-  <project timestamp="1717334921809" name="All files">
-    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="13" coveredelements="13" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
+<coverage generated="1717667259048" clover="3.2.0">
+  <project timestamp="1717667259049" name="All files">
+    <metrics statements="39" coveredstatements="33" conditionals="7" coveredconditionals="4" methods="8" coveredmethods="8" elements="54" coveredelements="45" complexity="0" loc="39" ncloc="39" packages="1" files="4" classes="4"/>
+    <file name="caesarcipher.js" path="/home/han/project_testingpractice/caesarcipher.js">
+      <metrics statements="22" coveredstatements="16" conditionals="7" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="13" type="cond" truecount="4" falsecount="3"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="27" count="10" type="stmt"/>
+      <line num="28" count="10" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="13" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+    </file>
+    <file name="calculator.js" path="/home/han/project_testingpractice/calculator.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
     <file name="capitalize.js" path="/home/han/project_testingpractice/capitalize.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
